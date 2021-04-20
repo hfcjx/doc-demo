@@ -9,6 +9,4 @@ python:
   version: 3.7
   install:
     - method: pip
-      path: .
-      extra_requirements:
-        - pydata-sphinx-theme-0.6.1.tar
+      path: ./pydata-sphinx-theme-0.6.1.tar
